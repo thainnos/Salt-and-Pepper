@@ -1,3 +1,3 @@
 # Printing Template
 
-The english version in currently in progress.
+The english version is currently in progress.

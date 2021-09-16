@@ -14,8 +14,8 @@ from one's hand.
 
 
 ## Getting started
-* [Game Instructions](Instructions/README.md)
-* [Salt&Pepper_CharacterSheet](CharacterSheet/README.md)
-* [Printing_Template](PrintingTemplate/README.md)
+* [Game Instructions](Instructions)
+* [Salt&Pepper_CharacterSheet](CharacterSheet)
+* [Printing_Template](PrintingTemplate)
 
 

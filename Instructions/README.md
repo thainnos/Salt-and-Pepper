@@ -1,3 +1,3 @@
 # Game Instructions
 
-- The English version is currently in progress.
+The english version is currently in progress.
