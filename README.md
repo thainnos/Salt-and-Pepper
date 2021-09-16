@@ -1,9 +1,10 @@
 # Salt&Pepper - Security Behavior Card Game
 
-Salt&Pepper is a ...
+The card game aims to bring about an improvement in human information security behavior.
 
-The card game aims to bring about a change in Information Security Behavior.
-
+Salt\&Pepper is a shedding-type card game, i.e. the players start with a hand of
+cards and the objective of the game is to be the first player to discard all cards
+from one's hand.
 
 
 <table align="center"><tr><td align="center" width="9999">
